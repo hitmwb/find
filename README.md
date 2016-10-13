@@ -1,3 +1,2 @@
 # find
-find you
-As a applcation to find a person for you.
+find is a applcation to find a person for you.
