@@ -1,2 +1,2 @@
-# find
-find is a applcation to find a person for you.
+# find_cbb
+public cbb module.
