@@ -1,2 +1,2 @@
-# find
-find is a applcation to find a person for you.
+# hitme
+hitme is a applcation to do something for you.
